@@ -1,0 +1,25 @@
+{
+  "name": "node-shared-libs",
+  "version": "1.0.0",
+  "description": "Shared libraries of each Node.js version(>6).",
+  "main": "latest",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidCai1993/node-shared-libs.git"
+  },
+  "keywords": [
+    "shared library",
+    "shared",
+    "library"
+  ],
+  "versionsMap": {
+    "6": "6.3.1",
+    "latest": "6"
+  },
+  "author": "DavidCai1993",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidCai1993/node-shared-libs/issues"
+  },
+  "homepage": "https://github.com/DavidCai1993/node-shared-libs#readme"
+}
