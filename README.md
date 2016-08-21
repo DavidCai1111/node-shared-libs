@@ -1,3 +1,3 @@
 # node-shared-libs
 
-Shared librarys of latest node.js.
+Shared libraries of latest node.js.
