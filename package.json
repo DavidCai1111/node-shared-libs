@@ -1,7 +1,7 @@
 {
   "name": "node-shared-libs",
   "version": "1.0.0",
-  "description": "Shared libraries of each Node.js version(>6).",
+  "description": "Shared libraries of the latest Node.js.",
   "main": "latest",
   "repository": {
     "type": "git",
@@ -13,8 +13,8 @@
     "library"
   ],
   "versionsMap": {
-    "7.0.0": "51",
-    "latest": "7.0.0"
+    "7.2.0": "51",
+    "latest": "7.2.0"
   },
   "author": "DavidCai1993",
   "license": "MIT",
