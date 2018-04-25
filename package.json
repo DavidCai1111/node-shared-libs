@@ -13,8 +13,8 @@
     "library"
   ],
   "versionsMap": {
-    "9.8.0": "59",
-    "latest": "9.8.0"
+    "10.0.0": "64",
+    "latest": "10.0.0"
   },
   "author": "DavidCai1993",
   "license": "MIT",
